@@ -1,4 +1,5 @@
-zhende shini ma 
-shiwo nishishui 
-wozaidengni
-woyezai dengni 
+#include <stdio.h>
+int main()
+{
+    
+}
